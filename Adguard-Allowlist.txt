@@ -1,0 +1,35 @@
+!
+! Title: Sree Adguard Allowlist
+! Description: Allowlist for Essential Domains.
+! Last modified: 2025-09-15T10:19PM
+!
+@@||gumlet.io^^
+@@||1mg.com^
+@@||proxmox.com^
+@@||showflix.site^
+@@||icicibank.com^
+@@||hfn.li^
+@@||heartfulness.org^
+@@||tontonsecurity.com^
+@@||ambitionbox.com^
+@@||adguard.info^
+@@||awstrack.me^
+@@||happyfappy.org^
+@@||yuppcdn.net^
+@@||internationalsexguide.nl^
+@@||googleadservices.com^
+@@||alibaba.com^
+@@||spotify.com^
+@@||api-03.moengage.com^
+@@||webengage.com^
+@@||xiaomi.com^
+@@||miui.com^
+@@||aiv-delivery.net^
+@@||amazon.de^
+@@||amazon.com^
+@@||aliexpress.com^
+@@||pepperfry.com^
+@@||conviva.com^
+@@||sbicard.com^
+@@||facebook.com^
+@@||desidime.com^
