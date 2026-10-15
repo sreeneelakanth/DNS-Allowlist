@@ -33,3 +33,4 @@
 @@||sbicard.com^
 @@||facebook.com^
 @@||desidime.com^
+@@||wikipedia.org^
